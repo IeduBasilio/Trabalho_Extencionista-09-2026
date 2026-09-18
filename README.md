@@ -66,7 +66,7 @@ Os documentos referentes à primeira entrega estão disponíveis na pasta
 
 ## Etapas do projeto
 
-### Etapa 1 — Análise e Modelagem
+### Etapa 1 — Análise e Modelagem - iniciado
 Primeira versão da análise, requisitos e modelagem do sistema.
 
 ### Etapa 2 — Protótipo
@@ -77,10 +77,9 @@ Desenvolvimento do MVP e realização dos testes.
 
 ## Equipe
 
-- Nome do integrante 1
-- Nome do integrante 2
-- Nome do integrante 3
-- Nome do integrante 4
+- Iedu Basilio 33296
+- Gabriel Neris 
+
 
 ## Instituição
 
