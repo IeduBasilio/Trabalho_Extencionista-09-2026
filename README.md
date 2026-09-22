@@ -79,8 +79,3 @@ Desenvolvimento do MVP e realização dos testes.
 
 - Iedu Basilio 33296
 - Gabriel Neris 33524
-
-
-## Instituição
-
-Projeto desenvolvido para a disciplina de Projeto Extensionista.
