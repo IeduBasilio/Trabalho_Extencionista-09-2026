@@ -78,7 +78,7 @@ Desenvolvimento do MVP e realização dos testes.
 ## Equipe
 
 - Iedu Basilio 33296
-- Gabriel Neris 
+- Gabriel Neris 33524
 
 
 ## Instituição
